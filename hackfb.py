@@ -6,7 +6,7 @@ import os, sys
 
 def wa():
     os.system('xdg-open https://api.whatsapp.com/send?phone=+6281291977644&text=Assalamualaikum')
-
+Uy
 
 def restart():
     ngulang = sys.executable
